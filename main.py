@@ -73,7 +73,6 @@ async def load_extensions():
         if filename.endswith(".py") and not filename.startswith("__"):
             await bot.load_extension(f"cogs.{filename[:-3]}")
             logger.info(f"Extension chargée: {filename[:-3]}")
-
 # Démarrer le bot
 async def main():
     async with bot:

@@ -1,10 +1,11 @@
 # Configuration du bot
-TOKEN = "MTM0NjQ5MjgxMDA5Nzg1MjQ3OA.Gux0S5.hajy49Ip9Q3hV_9bPXzCHSLCm_RRzeNY_bN0XI"  # Remplacez par votre vrai token
+TOKEN = ""  # Remplacez par votre vrai token
 PREFIX = "!"
 DATE_FORMAT = "%d %b %Y %H:%M:%S"
 CONFIG_FILE = "data/rss_config.json"
 ACTIVITY_CHANGE_INTERVAL = 10  # minutes
-
+# Configuration pour les logs
+LOG_CHANNELS = {}  # Format: {"guild_id": channel_id}
 # Liste des mots-clés pour le filtrage (par défaut)
 DEFAULT_KEYWORDS = [
     # Anglais

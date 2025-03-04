@@ -1,0 +1,14 @@
+{
+    "rss_configs": {
+        "1109965261412499487": {
+            "channel": 1346485016015671327,
+            "feeds": {
+                "https://rss.app/feeds/tnrNrOlIqX3bjg7b.xml": "da7e5b7d00224ee1736a9d0f874af773"
+            }
+        }
+    },
+    "server_keywords": {},
+    "log_channels": {
+        "1109965261412499487": 1346549813671362640
+    }
+}
