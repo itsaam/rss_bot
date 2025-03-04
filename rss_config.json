@@ -1,0 +1,67 @@
+{
+    "rss_configs": {
+        "1109965261412499487": {
+            "channel": 1346485016015671327,
+            "feeds": {
+                "https://rss.app/feeds/tA30SAX6XODM9jBq.xml": "1c391d319e1bc40cd6a5b484c1de31db",
+                "https://rss.app/feeds/tvXMnMjVosSzMmnD.xml": "cc77cfea90f8fa31e228ac6c61a1ad13",
+                "https://rss.app/feeds/tAdymqHgH4vZYZBu.xml": "13cd84616e6d63e69ec8b09ca7ce0352",
+                "https://rss.app/feeds/t59xnHlxJvBm2NVl.xml": "c6d362ea7135f63fc2a157c9098a7c48",
+                "https://rss.app/feeds/t3anXhpaG6MCF8vJ.xml": "4e4482b256d1c2af98b20299a86f19ca",
+                "https://rss.app/feeds/tiZbpHBzNcLtRggG.xml": "4e4482b256d1c2af98b20299a86f19ca",
+                "https://rss.app/feeds/tnrNrOlIqX3bjg7b.xml": "da7e5b7d00224ee1736a9d0f874af773",
+                "https://rss.app/feeds/t1HlpTNq0ACpVBQ4.xml": "31a8c58112ae11adc8fc0979c6841287"
+            }
+        }
+    },
+    "server_keywords": {
+        "1109965261412499487": [
+            "AI",
+            "healthcare",
+            "medical AI",
+            "cancer detection",
+            "radiology AI",
+            "MRI AI",
+            "CT scan AI",
+            "deep learning medical",
+            "AI diagnosis",
+            "AI genomics",
+            "AI surgery",
+            "robotic surgery AI",
+            "biomedical AI",
+            "AI drug discovery",
+            "AI imaging",
+            "AI in medicine",
+            "AI medical research",
+            "AI patient care",
+            "machine learning healthcare",
+            "neural networks medical",
+            "AI-assisted diagnosis",
+            "AI healthtech",
+            "AI medical analysis",
+            "AI-powered radiology",
+            "AI pathology",
+            "medical deep learning",
+            "intelligence artificielle médicale",
+            "santé IA",
+            "diagnostic IA",
+            "IA médicale",
+            "apprentissage profond médical",
+            "détection du cancer IA",
+            "radiologie IA",
+            "IRM IA",
+            "scan médical IA",
+            "diagnostic assisté par IA",
+            "réseaux neuronaux santé",
+            "analyse médicale IA",
+            "robotique chirurgicale IA",
+            "pathologie IA",
+            "imagerie médicale IA",
+            "technologie médicale IA",
+            "traitement médical IA",
+            "modèles IA santé",
+            "chirurgie assistée par IA",
+            "IA"
+        ]
+    }
+}
